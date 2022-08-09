@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'kkndidesagayam.github.io',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'kkndidesagayam',
